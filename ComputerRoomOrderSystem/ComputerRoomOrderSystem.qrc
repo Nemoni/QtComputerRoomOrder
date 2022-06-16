@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/winicon">
+        <file>Resources/mainwindow.png</file>
+        <file>Resources/manager.png</file>
+        <file>Resources/student.png</file>
+        <file>Resources/teacher.png</file>
+    </qresource>
+</RCC>

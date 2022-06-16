@@ -1,0 +1,37 @@
+﻿  Moc'ing UiViewButtons.h...
+  Moc'ing UiTeacherMain.h...
+  Moc'ing UiStudentOrder.h...
+  Moc'ing UiStudentMain.h...
+  Moc'ing UiMgAcountCreate.h...
+  Moc'ing UiManageRoom.h...
+  Moc'ing UiManagerMain.h...
+  Moc'ing UiManageOrder.h...
+  Moc'ing UiManageAccount.h...
+  Moc'ing SqlApi.h...
+  Moc'ing QtGuiMain.h...
+  main.cpp
+  QtGuiMain.cpp
+  SqlApi.cpp
+  UiManageAccount.cpp
+  UiManageOrder.cpp
+  UiManagerMain.cpp
+  UiManageRoom.cpp
+  UiMgAcountCreate.cpp
+  UiStudentMain.cpp
+  UiStudentOrder.cpp
+  UiTeacherMain.cpp
+  UiViewButtons.cpp
+  moc_UiViewButtons.cpp
+  moc_UiTeacherMain.cpp
+  moc_UiStudentOrder.cpp
+  moc_UiStudentMain.cpp
+  moc_UiMgAcountCreate.cpp
+f:\cpp\computerroomordersystem\computerroomordersystem\uistudentorder.cpp(88): warning C4715: 'UiStudentOrder::getCapacityFromId': not all control paths return a value
+  moc_UiManageRoom.cpp
+  moc_UiManagerMain.cpp
+  moc_UiManageOrder.cpp
+  moc_UiManageAccount.cpp
+  moc_SqlApi.cpp
+  moc_QtGuiMain.cpp
+  qrc_ComputerRoomOrderSystem.cpp
+  ComputerRoomOrderSystem.vcxproj -> F:\Cpp\ComputerRoomOrderSystem\x64\Release\ComputerRoomOrderSystem.exe
